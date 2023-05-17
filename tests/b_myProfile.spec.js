@@ -1,4 +1,4 @@
-import { test } from './baseTest';
+import { test } from './globalVars';
 import { expect } from '@playwright/test';
 const { RegisterPage } = require('../pages/registerPage');
 const { LoginPage } = require('../pages/loginPage');

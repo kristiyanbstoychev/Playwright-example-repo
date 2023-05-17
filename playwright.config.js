@@ -35,7 +35,6 @@ module.exports = defineConfig({
           args: ["--start-maximized"]
       },
       headless: true,
-    
   },
 
   /* Configure projects for major browsers */
