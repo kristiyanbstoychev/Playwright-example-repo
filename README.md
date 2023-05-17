@@ -1,5 +1,9 @@
 # Playwright-example-repo
 
+The tests are based on the Cypress Real World App - https://github.com/cypress-io/cypress-realworld-app
+before running the app run - yarn install
+to run the app - yarn dev
+
 npm init playwright@latest
 
   npx playwright test
