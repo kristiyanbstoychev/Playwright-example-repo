@@ -2,6 +2,8 @@
 
 The tests are based on the Cypress Real World App - https://github.com/cypress-io/cypress-realworld-app
 
+git pull https://github.com/cypress-io/cypress-realworld-app.git
+
 before running the app run - yarn install
 
 to run the app - yarn dev
